@@ -13,4 +13,5 @@
 #### The details of the function are not important, the top priority is to make sure the input Type(s) and the Output Type is correct.
 
 #### Once the Types have been correctly defined, the function must adhere to these Types. If they do not, there is a problem with the function. 
-     DO NOT change the input/output types, change the FUNCTION so that it adheres.
+
+#### DO NOT change the input/output types, change the FUNCTION so that it adheres.
