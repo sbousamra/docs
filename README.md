@@ -1,6 +1,6 @@
 # General approach to DailyProgrammer problems
 
-#### Input handling function: Function dealing with the input and the formatting of the input into what we want to deal with.
+#### Input handling function: Function dealing with the input and the formatting of the input into what we want to deal with. Use case classes to capture data if possible.
 
 #### Core solving function: Function dealing with the solving of the problem.
 
