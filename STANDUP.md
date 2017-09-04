@@ -42,3 +42,5 @@
 * Do more reading on 'callbacks' and 'promises'
 * Do a daily programmer
 * Clean up repositories, making sure a README.md is added to each, make sure repos names correctly depict what the repos is about and remove unnecessary directories and/or files.
+* Implement redirect fix for twitterClone on going from signup => home.
+* Finish off SQL migration from var databasing in twitterClone.
