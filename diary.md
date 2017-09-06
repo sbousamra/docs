@@ -1,3 +1,8 @@
+# 06/09/2017
+
+* Added ability to add post 'tweets' on twitterClone project. Saves tweets on database, displays them in the same column just like twitter.
+* Fixed webpack to proxy server to dev server, saving me the hassel of rebuilding on every change on client side.
+
 # 05/09/2017
 
 * Read up on promises and started thinking of them in terms of types
