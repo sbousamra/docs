@@ -1,17 +1,23 @@
-#Languages
+#Increase toolset
 
-#### Html
+#### Learn about Map(not map) and add it to your toolset
 
-#### Javascript
+#### Learn how to use flatMap (very powerful tool). Understand the theory inside and out and become very comfortable with it.
 
-#### Http
+#### Learn to use traits and when to use them. When should you use a trait over just a plain function or a function tied to a class?
 
-#Formatting
+####
 
-#### Markdown
+#Theory to learn
 
-#### Json
+#### Currying (What is it?)
 
-#Projects
+#### Public vs Private method (whats the difference?)
 
-#### Create an operating system
+#### Difference between recursion and iteration? Also, what is tail recursion and regular recursion? What's the difference?
+
+#### What is concurrency? 
+
+#### What are Data Types? Why are they important? Do you understand them and what they mean if someone asked you about them? 
+
+#### Monads
