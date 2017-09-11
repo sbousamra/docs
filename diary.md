@@ -1,3 +1,9 @@
+# 11/09/2017
+
+* First day of work, set up workspace environment
+* Looked through cammy-web repository to try understand the code
+* Introduced to yarn, react-stamp and electron. Yarn helps to make sure that the dependencies downloaded are always the same between users to avoid bugs. React-stamp allows the ability to compose parts of separate components if wanted. Electron is used to turn your web-app into a desktop app without having to change the code too much.
+
 # 06/09/2017
 
 * Added ability to add post 'tweets' on twitterClone project. Saves tweets on database, displays them in the same column just like twitter.
